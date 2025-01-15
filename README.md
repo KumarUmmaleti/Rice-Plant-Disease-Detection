@@ -16,6 +16,9 @@ This project focuses on early and accurate detection of rice plant diseases usin
 ## Introduction
 Rice is a staple crop worldwide, but its productivity is frequently hindered by diseases. This project leverages artificial intelligence (AI) and deep learning techniques to detect rice plant diseases efficiently and accurately. The models were trained on a dataset comprising 4,452 images of rice plants, covering nine disease classes and healthy plants.
 
+## Dataset
+Link: https://drive.google.com/drive/folders/1bFvV6NCikCmZxcZk7dPr8kslW7f0trub
+
 ## Objectives
 - Develop a deep learning model for rice plant disease detection.
 - Preprocess a dataset of rice plant images to enhance quality and consistency.
